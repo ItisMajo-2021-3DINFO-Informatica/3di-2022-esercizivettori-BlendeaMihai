@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\ref\BlendeaVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\bin\Debug\net5.0\BlendeaVettori3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\ref\BlendeaVettori3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaVettori3\BlendeaVettori3\obj\Debug\net5.0\BlendeaVettori3.genruntimeconfig.cache
