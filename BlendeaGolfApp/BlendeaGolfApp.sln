@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlendeaGolfApp", "BlendeaGolfApp\BlendeaGolfApp.csproj", "{CD11B898-75B6-4136-B525-8D8262D09B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD11B898-75B6-4136-B525-8D8262D09B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD11B898-75B6-4136-B525-8D8262D09B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD11B898-75B6-4136-B525-8D8262D09B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD11B898-75B6-4136-B525-8D8262D09B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B340B45-F9E6-4F54-8E93-E13C680AE8D4}
+	EndGlobalSection
+EndGlobal

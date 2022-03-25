@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\ref\BlendeaGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\bin\Debug\net5.0\BlendeaGolfApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\ref\BlendeaGolfApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaGolfApp\BlendeaGolfApp\obj\Debug\net5.0\BlendeaGolfApp.genruntimeconfig.cache
