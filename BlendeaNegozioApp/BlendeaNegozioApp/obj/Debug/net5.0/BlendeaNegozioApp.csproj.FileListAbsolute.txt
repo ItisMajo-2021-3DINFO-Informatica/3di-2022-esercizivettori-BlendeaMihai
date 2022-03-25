@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\ref\BlendeaNegozioApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\bin\Debug\net5.0\BlendeaNegozioApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\ref\BlendeaNegozioApp.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-BlendeaMihai\BlendeaNegozioApp\BlendeaNegozioApp\obj\Debug\net5.0\BlendeaNegozioApp.genruntimeconfig.cache
